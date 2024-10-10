@@ -51,22 +51,8 @@ The modified Genetic Algorithm was run with the following parameters:
 
 6. **Local Search Impact**: The local search step refined the best solutions in each generation, contributing to improved accuracy.
 
-## 4. Visualizations
 
-
-1. **True vs Recovered Signal Plot**: 
-    ![image]("https://github.com/Abhishekdx300/Sparse-recovery-py/sparse_recovery_output1/true_recovered_20241010_190257.png")
-
-2. **Fitness Over Generations Plot**:
-    ![image]("https://github.com/Abhishekdx300/Sparse-recovery-py/sparse_recovery_output1/fitness_20241010_190257.png")
-
-
-3. **Recovery Error Plot**:
-    ![image]("https://github.com/Abhishekdx300/Sparse-recovery-py/sparse_recovery_output1/error_20241010_190257.png")
-
-
-
-## 5. Conclusions
+## 4. Conclusions
 
 1. **Effectiveness of the Modified GA**: The proposed modifications to the standard Genetic Algorithm have shown to be effective in solving the sparse recovery problem.
 
